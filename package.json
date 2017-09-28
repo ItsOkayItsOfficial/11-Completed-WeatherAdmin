@@ -1,0 +1,22 @@
+{
+  "name": "11-completed-weatheradmin",
+  "version": "1.0.0",
+  "description": "Activity 11 for Week 11",
+  "main": "cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "Alex P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
