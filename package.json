@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/n/a#readme",
   "dependencies": {
+    "request": "^2.83.0",
     "weather-js": "^2.0.0"
   }
 }
